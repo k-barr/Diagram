@@ -1,40 +1,40 @@
-<mxfile host="app.diagrams.net" modified="2024-05-07T04:16:37.011Z" agent="Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/124.0.0.0 Safari/537.36 Edg/124.0.0.0" etag="kM6ZiKwQsDaH9brizxx0" version="24.3.1" type="github">
+<mxfile host="app.diagrams.net" modified="2024-05-07T06:23:06.951Z" agent="Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/124.0.0.0 Safari/537.36 Edg/124.0.0.0" etag="iTZwga6xucAes39jRlAb" version="24.3.1" type="github">
   <diagram name="Page-1" id="O2pF85n0yp7lPwGw6rg4">
-    <mxGraphModel dx="832" dy="491" grid="1" gridSize="10" guides="1" tooltips="1" connect="1" arrows="1" fold="1" page="1" pageScale="1" pageWidth="850" pageHeight="1100" background="none" math="0" shadow="0">
+    <mxGraphModel dx="832" dy="491" grid="1" gridSize="10" guides="1" tooltips="1" connect="1" arrows="1" fold="1" page="1" pageScale="1" pageWidth="850" pageHeight="1100" background="#000033" math="0" shadow="0">
       <root>
         <mxCell id="0" />
         <mxCell id="1" parent="0" />
-        <mxCell id="wUFMJblf1iZADtFdAWqj-1" value="Aplikasi Absensi Karyawan di PT. Benderaku Berkibar Selalu Berbasis Website" style="ellipse;whiteSpace=wrap;html=1;aspect=fixed;labelBackgroundColor=none;fillColor=#182E3E;strokeColor=#FFFFFF;fontColor=#FFFFFF;" vertex="1" parent="1">
+        <mxCell id="wUFMJblf1iZADtFdAWqj-1" value="&lt;font color=&quot;#ffffff&quot;&gt;Aplikasi Absensi Karyawan di PT. Benderaku Berkibar Selalu Berbasis Website&lt;/font&gt;" style="ellipse;whiteSpace=wrap;html=1;aspect=fixed;labelBackgroundColor=none;fillColor=none;strokeColor=#FFFFFF;fontColor=#1A1A1A;" vertex="1" parent="1">
           <mxGeometry x="375" y="160" width="130" height="130" as="geometry" />
         </mxCell>
-        <mxCell id="wUFMJblf1iZADtFdAWqj-2" value="Admin" style="rounded=0;whiteSpace=wrap;html=1;labelBackgroundColor=none;fillColor=#182E3E;strokeColor=#FFFFFF;fontColor=#FFFFFF;" vertex="1" parent="1">
+        <mxCell id="wUFMJblf1iZADtFdAWqj-2" value="&lt;font color=&quot;#ffffff&quot;&gt;Admin&lt;/font&gt;" style="rounded=0;whiteSpace=wrap;html=1;labelBackgroundColor=none;fillColor=none;strokeColor=#FFFFFF;fontColor=#1A1A1A;" vertex="1" parent="1">
           <mxGeometry x="170" y="170" width="120" height="60" as="geometry" />
         </mxCell>
-        <mxCell id="wUFMJblf1iZADtFdAWqj-3" value="Karyawan" style="rounded=0;whiteSpace=wrap;html=1;labelBackgroundColor=none;fillColor=#182E3E;strokeColor=#FFFFFF;fontColor=#FFFFFF;" vertex="1" parent="1">
+        <mxCell id="wUFMJblf1iZADtFdAWqj-3" value="&lt;font style=&quot;&quot; color=&quot;#ffffff&quot;&gt;Karyawan&lt;/font&gt;" style="rounded=0;whiteSpace=wrap;html=1;labelBackgroundColor=none;fillColor=none;strokeColor=#FFFFFF;fontColor=#1A1A1A;" vertex="1" parent="1">
           <mxGeometry x="590" y="170" width="120" height="60" as="geometry" />
         </mxCell>
-        <mxCell id="wUFMJblf1iZADtFdAWqj-4" value="Pimpinan" style="rounded=0;whiteSpace=wrap;html=1;labelBackgroundColor=none;fillColor=#182E3E;strokeColor=#FFFFFF;fontColor=#FFFFFF;" vertex="1" parent="1">
+        <mxCell id="wUFMJblf1iZADtFdAWqj-4" value="&lt;font color=&quot;#ffffff&quot;&gt;Pimpinan&lt;/font&gt;" style="rounded=0;whiteSpace=wrap;html=1;labelBackgroundColor=none;fillColor=none;strokeColor=#FFFFFF;fontColor=#1A1A1A;" vertex="1" parent="1">
           <mxGeometry x="380" y="400" width="120" height="60" as="geometry" />
         </mxCell>
-        <mxCell id="wUFMJblf1iZADtFdAWqj-6" value="" style="endArrow=none;html=1;rounded=0;exitX=1;exitY=0.5;exitDx=0;exitDy=0;labelBackgroundColor=none;strokeColor=#23445D;fontColor=default;" edge="1" parent="1" source="wUFMJblf1iZADtFdAWqj-2">
+        <mxCell id="wUFMJblf1iZADtFdAWqj-6" value="" style="endArrow=none;html=1;rounded=0;exitX=1;exitY=0.5;exitDx=0;exitDy=0;labelBackgroundColor=none;strokeColor=#FFFFFF;fontColor=default;" edge="1" parent="1" source="wUFMJblf1iZADtFdAWqj-2">
           <mxGeometry width="50" height="50" relative="1" as="geometry">
             <mxPoint x="400" y="360" as="sourcePoint" />
             <mxPoint x="380" y="200" as="targetPoint" />
           </mxGeometry>
         </mxCell>
-        <mxCell id="wUFMJblf1iZADtFdAWqj-7" value="" style="endArrow=none;html=1;rounded=0;entryX=0;entryY=0.5;entryDx=0;entryDy=0;labelBackgroundColor=none;strokeColor=#23445D;fontColor=default;" edge="1" parent="1" target="wUFMJblf1iZADtFdAWqj-3">
+        <mxCell id="wUFMJblf1iZADtFdAWqj-7" value="" style="endArrow=none;html=1;rounded=0;entryX=0;entryY=0.5;entryDx=0;entryDy=0;labelBackgroundColor=none;strokeColor=#FFFFFF;fontColor=default;" edge="1" parent="1" target="wUFMJblf1iZADtFdAWqj-3">
           <mxGeometry width="50" height="50" relative="1" as="geometry">
             <mxPoint x="500" y="200" as="sourcePoint" />
             <mxPoint x="330" y="240" as="targetPoint" />
           </mxGeometry>
         </mxCell>
-        <mxCell id="wUFMJblf1iZADtFdAWqj-8" value="" style="endArrow=classic;html=1;rounded=0;entryX=0.5;entryY=0;entryDx=0;entryDy=0;exitX=0.5;exitY=1;exitDx=0;exitDy=0;labelBackgroundColor=none;strokeColor=#23445D;fontColor=default;" edge="1" parent="1" source="wUFMJblf1iZADtFdAWqj-1" target="wUFMJblf1iZADtFdAWqj-4">
+        <mxCell id="wUFMJblf1iZADtFdAWqj-8" value="" style="endArrow=classic;html=1;rounded=0;entryX=0.5;entryY=0;entryDx=0;entryDy=0;exitX=0.5;exitY=1;exitDx=0;exitDy=0;labelBackgroundColor=none;strokeColor=#FFFFFF;fontColor=default;" edge="1" parent="1" source="wUFMJblf1iZADtFdAWqj-1" target="wUFMJblf1iZADtFdAWqj-4">
           <mxGeometry width="50" height="50" relative="1" as="geometry">
             <mxPoint x="230" y="370" as="sourcePoint" />
             <mxPoint x="280" y="320" as="targetPoint" />
           </mxGeometry>
         </mxCell>
-        <mxCell id="wUFMJblf1iZADtFdAWqj-9" value="" style="endArrow=classic;html=1;rounded=0;entryX=0.5;entryY=1;entryDx=0;entryDy=0;exitX=0;exitY=1;exitDx=0;exitDy=0;labelBackgroundColor=none;strokeColor=#23445D;fontColor=default;" edge="1" parent="1" source="wUFMJblf1iZADtFdAWqj-1" target="wUFMJblf1iZADtFdAWqj-2">
+        <mxCell id="wUFMJblf1iZADtFdAWqj-9" value="" style="endArrow=classic;html=1;rounded=0;entryX=0.5;entryY=1;entryDx=0;entryDy=0;exitX=0;exitY=1;exitDx=0;exitDy=0;labelBackgroundColor=none;strokeColor=#FFFFFF;fontColor=default;" edge="1" parent="1" source="wUFMJblf1iZADtFdAWqj-1" target="wUFMJblf1iZADtFdAWqj-2">
           <mxGeometry width="50" height="50" relative="1" as="geometry">
             <mxPoint x="230" y="370" as="sourcePoint" />
             <mxPoint x="280" y="320" as="targetPoint" />
@@ -43,7 +43,7 @@
             </Array>
           </mxGeometry>
         </mxCell>
-        <mxCell id="wUFMJblf1iZADtFdAWqj-10" value="" style="endArrow=classic;html=1;rounded=0;entryX=0.5;entryY=1;entryDx=0;entryDy=0;exitX=1;exitY=1;exitDx=0;exitDy=0;labelBackgroundColor=none;strokeColor=#23445D;fontColor=default;" edge="1" parent="1" source="wUFMJblf1iZADtFdAWqj-1" target="wUFMJblf1iZADtFdAWqj-3">
+        <mxCell id="wUFMJblf1iZADtFdAWqj-10" value="" style="endArrow=classic;html=1;rounded=0;entryX=0.5;entryY=1;entryDx=0;entryDy=0;exitX=1;exitY=1;exitDx=0;exitDy=0;labelBackgroundColor=none;strokeColor=#FFFFFF;fontColor=default;" edge="1" parent="1" source="wUFMJblf1iZADtFdAWqj-1" target="wUFMJblf1iZADtFdAWqj-3">
           <mxGeometry width="50" height="50" relative="1" as="geometry">
             <mxPoint x="230" y="370" as="sourcePoint" />
             <mxPoint x="280" y="320" as="targetPoint" />
@@ -52,19 +52,19 @@
             </Array>
           </mxGeometry>
         </mxCell>
-        <mxCell id="wUFMJblf1iZADtFdAWqj-11" value="Informasi Data Karyawan" style="text;html=1;align=center;verticalAlign=middle;whiteSpace=wrap;rounded=0;labelBackgroundColor=none;fontColor=#FFFFFF;" vertex="1" parent="1">
+        <mxCell id="wUFMJblf1iZADtFdAWqj-11" value="&lt;font color=&quot;#ffffff&quot;&gt;Informasi Data Karyawan&lt;/font&gt;" style="text;html=1;align=center;verticalAlign=middle;whiteSpace=wrap;rounded=0;labelBackgroundColor=none;fontColor=#1A1A1A;" vertex="1" parent="1">
           <mxGeometry x="240" y="240" width="130" height="30" as="geometry" />
         </mxCell>
-        <mxCell id="wUFMJblf1iZADtFdAWqj-14" value="Data Karyawan" style="text;html=1;align=center;verticalAlign=middle;whiteSpace=wrap;rounded=0;labelBackgroundColor=none;fontColor=#FFFFFF;" vertex="1" parent="1">
+        <mxCell id="wUFMJblf1iZADtFdAWqj-14" value="&lt;font color=&quot;#ffffff&quot;&gt;Data Karyawan&lt;/font&gt;" style="text;html=1;align=center;verticalAlign=middle;whiteSpace=wrap;rounded=0;labelBackgroundColor=none;fontColor=#1A1A1A;" vertex="1" parent="1">
           <mxGeometry x="520" y="240" width="100" height="30" as="geometry" />
         </mxCell>
-        <mxCell id="wUFMJblf1iZADtFdAWqj-15" value="- Data Admin&lt;div&gt;- Data Karyawan&lt;/div&gt;&lt;div&gt;- Data Absensi&lt;/div&gt;" style="text;strokeColor=none;fillColor=none;align=left;verticalAlign=middle;spacingLeft=4;spacingRight=4;overflow=hidden;points=[[0,0.5],[1,0.5]];portConstraint=eastwest;rotatable=0;whiteSpace=wrap;html=1;labelBackgroundColor=none;fontColor=#FFFFFF;" vertex="1" parent="1">
+        <mxCell id="wUFMJblf1iZADtFdAWqj-15" value="&lt;font color=&quot;#ffffff&quot;&gt;- Data Admin&lt;/font&gt;&lt;div&gt;&lt;font color=&quot;#ffffff&quot;&gt;- Data Karyawan&lt;/font&gt;&lt;/div&gt;&lt;div&gt;&lt;font color=&quot;#ffffff&quot;&gt;- Data Absensi&lt;/font&gt;&lt;/div&gt;" style="text;strokeColor=none;fillColor=none;align=left;verticalAlign=middle;spacingLeft=4;spacingRight=4;overflow=hidden;points=[[0,0.5],[1,0.5]];portConstraint=eastwest;rotatable=0;whiteSpace=wrap;html=1;labelBackgroundColor=none;fontColor=#1A1A1A;" vertex="1" parent="1">
           <mxGeometry x="230" y="290" width="120" height="70" as="geometry" />
         </mxCell>
-        <mxCell id="wUFMJblf1iZADtFdAWqj-16" value="Informasi Absensi Karyawan" style="text;strokeColor=none;fillColor=none;align=left;verticalAlign=middle;spacingLeft=4;spacingRight=4;overflow=hidden;points=[[0,0.5],[1,0.5]];portConstraint=eastwest;rotatable=0;whiteSpace=wrap;html=1;labelBackgroundColor=none;fontColor=#FFFFFF;" vertex="1" parent="1">
+        <mxCell id="wUFMJblf1iZADtFdAWqj-16" value="&lt;font color=&quot;#ffffff&quot;&gt;Informasi Absensi Karyawan&lt;/font&gt;" style="text;strokeColor=none;fillColor=none;align=left;verticalAlign=middle;spacingLeft=4;spacingRight=4;overflow=hidden;points=[[0,0.5],[1,0.5]];portConstraint=eastwest;rotatable=0;whiteSpace=wrap;html=1;labelBackgroundColor=none;fontColor=#1A1A1A;" vertex="1" parent="1">
           <mxGeometry x="485" y="290" width="170" height="30" as="geometry" />
         </mxCell>
-        <mxCell id="wUFMJblf1iZADtFdAWqj-17" value="Laporan Absensi Karyawan" style="text;html=1;align=center;verticalAlign=middle;whiteSpace=wrap;rounded=0;labelBackgroundColor=none;fontColor=#FFFFFF;" vertex="1" parent="1">
+        <mxCell id="wUFMJblf1iZADtFdAWqj-17" value="&lt;font color=&quot;#ffffff&quot;&gt;Laporan Absensi Karyawan&lt;/font&gt;" style="text;html=1;align=center;verticalAlign=middle;whiteSpace=wrap;rounded=0;labelBackgroundColor=none;fontColor=#1A1A1A;" vertex="1" parent="1">
           <mxGeometry x="450" y="360" width="150" height="30" as="geometry" />
         </mxCell>
       </root>
