@@ -1,4 +1,4 @@
-<mxfile host="app.diagrams.net" modified="2024-05-20T04:07:46.456Z" agent="Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/124.0.0.0 Safari/537.36 Edg/124.0.0.0" etag="qdjLWnx1icVEr4uwKoQN" version="24.4.4" type="github">
+<mxfile host="app.diagrams.net" modified="2024-05-20T04:08:58.414Z" agent="Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/124.0.0.0 Safari/537.36 Edg/124.0.0.0" etag="gmDZQ9eVE9ShbI_Aj4B_" version="24.4.4" type="github">
   <diagram name="Page-1" id="e7e014a7-5840-1c2e-5031-d8a46d1fe8dd">
     <mxGraphModel dx="1849" dy="1091" grid="1" gridSize="10" guides="1" tooltips="1" connect="1" arrows="1" fold="1" page="1" pageScale="1" pageWidth="1169" pageHeight="826" background="none" math="0" shadow="0">
       <root>
@@ -39,7 +39,7 @@
         <mxCell id="20" value="" style="endArrow=open;strokeColor=#FFFFFF;endFill=1;rounded=0;entryX=0.5;entryY=0;entryDx=0;entryDy=0;labelBackgroundColor=none;fontColor=default;strokeWidth=2;" parent="2" source="10" target="VENFwPT8OEZ6iL2lPj8d-43" edge="1">
           <mxGeometry relative="1" as="geometry" />
         </mxCell>
-        <mxCell id="VENFwPT8OEZ6iL2lPj8d-45" value="Mengisi formulir" style="rhombus;whiteSpace=wrap;html=1;fillColor=none;strokeColor=#FFFFFF;labelBackgroundColor=none;fontColor=#1A1A1A;strokeWidth=2;" parent="2" vertex="1">
+        <mxCell id="VENFwPT8OEZ6iL2lPj8d-45" value="&lt;font color=&quot;#ffffff&quot;&gt;Mengisi formulir&lt;/font&gt;" style="rhombus;whiteSpace=wrap;html=1;fillColor=none;strokeColor=#FFFFFF;labelBackgroundColor=none;fontColor=#1A1A1A;strokeWidth=2;" parent="2" vertex="1">
           <mxGeometry x="82.5" y="452" width="125" height="80" as="geometry" />
         </mxCell>
         <mxCell id="VENFwPT8OEZ6iL2lPj8d-58" style="edgeStyle=orthogonalEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;exitX=0;exitY=0.5;exitDx=0;exitDy=0;entryX=0;entryY=0.5;entryDx=0;entryDy=0;strokeColor=#FFFFFF;labelBackgroundColor=none;fontColor=default;strokeWidth=2;" parent="2" source="VENFwPT8OEZ6iL2lPj8d-51" target="VENFwPT8OEZ6iL2lPj8d-57" edge="1">
@@ -117,7 +117,7 @@
         <mxCell id="YOEPtgyno4piZ7RR7QSO-23" value="Memperoleh desain kasar dari pembeli" style="rounded=0;whiteSpace=wrap;html=1;labelBackgroundColor=none;fillColor=#EEEEEE;strokeColor=#FFFFFF;fontColor=#1A1A1A;" vertex="1" parent="4">
           <mxGeometry x="85" y="352" width="120" height="60" as="geometry" />
         </mxCell>
-        <mxCell id="YOEPtgyno4piZ7RR7QSO-26" value="Pembuatan website" style="rhombus;whiteSpace=wrap;html=1;fillColor=none;strokeColor=#FFFFFF;labelBackgroundColor=none;fontColor=#1A1A1A;strokeWidth=2;" vertex="1" parent="4">
+        <mxCell id="YOEPtgyno4piZ7RR7QSO-26" value="&lt;font color=&quot;#ffffff&quot;&gt;Pembuatan website&lt;/font&gt;" style="rhombus;whiteSpace=wrap;html=1;fillColor=none;strokeColor=#FFFFFF;labelBackgroundColor=none;fontColor=#1A1A1A;strokeWidth=2;" vertex="1" parent="4">
           <mxGeometry x="75" y="547" width="140" height="70" as="geometry" />
         </mxCell>
         <mxCell id="YOEPtgyno4piZ7RR7QSO-27" value="" style="edgeStyle=orthogonalEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;exitX=0.5;exitY=1;exitDx=0;exitDy=0;entryX=0.5;entryY=0;entryDx=0;entryDy=0;strokeColor=#FFFFFF;labelBackgroundColor=none;fontColor=default;strokeWidth=2;" edge="1" parent="4" source="VENFwPT8OEZ6iL2lPj8d-49" target="YOEPtgyno4piZ7RR7QSO-26">
