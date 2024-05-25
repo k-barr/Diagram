@@ -1,9 +1,89 @@
-<mxfile host="app.diagrams.net" modified="2024-05-25T02:31:57.339Z" agent="Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/124.0.0.0 Safari/537.36 Edg/124.0.0.0" version="24.4.8" etag="MbU5vRkzaY_Qr5H-3LmC" type="github">
+<mxfile host="app.diagrams.net" modified="2024-05-25T02:32:17.148Z" agent="Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/124.0.0.0 Safari/537.36 Edg/124.0.0.0" etag="naU5nQ815RZyzplgZSdj" version="24.4.8" type="github">
   <diagram name="Page-1" id="YodKZr2Nsew-1IWJQJzp">
-    <mxGraphModel>
+    <mxGraphModel dx="1189" dy="701" grid="1" gridSize="10" guides="1" tooltips="1" connect="1" arrows="1" fold="1" page="1" pageScale="1" pageWidth="850" pageHeight="1100" background="#000000" math="0" shadow="0">
       <root>
         <mxCell id="0" />
         <mxCell id="1" parent="0" />
+        <mxCell id="A5s-50zNHgjBtvPFU55M-1" style="edgeStyle=orthogonalEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;exitX=0.5;exitY=0;exitDx=0;exitDy=0;entryX=0.5;entryY=1;entryDx=0;entryDy=0;strokeColor=#FFFFFF;strokeWidth=2;" edge="1" parent="1" source="A5s-50zNHgjBtvPFU55M-7" target="A5s-50zNHgjBtvPFU55M-4">
+          <mxGeometry relative="1" as="geometry" />
+        </mxCell>
+        <mxCell id="A5s-50zNHgjBtvPFU55M-2" style="edgeStyle=orthogonalEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;exitX=0.5;exitY=0;exitDx=0;exitDy=0;entryX=0.5;entryY=1;entryDx=0;entryDy=0;strokeColor=#FFFFFF;strokeWidth=2;" edge="1" parent="1" source="A5s-50zNHgjBtvPFU55M-15" target="A5s-50zNHgjBtvPFU55M-4">
+          <mxGeometry relative="1" as="geometry" />
+        </mxCell>
+        <mxCell id="A5s-50zNHgjBtvPFU55M-3" style="edgeStyle=orthogonalEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;exitX=0.5;exitY=0;exitDx=0;exitDy=0;entryX=0.5;entryY=1;entryDx=0;entryDy=0;strokeColor=#FFFFFF;strokeWidth=2;" edge="1" parent="1" source="A5s-50zNHgjBtvPFU55M-12" target="A5s-50zNHgjBtvPFU55M-4">
+          <mxGeometry relative="1" as="geometry" />
+        </mxCell>
+        <mxCell id="A5s-50zNHgjBtvPFU55M-4" value="&lt;font color=&quot;#ffffff&quot;&gt;Manager Umum&lt;/font&gt;" style="rounded=0;whiteSpace=wrap;html=1;fillColor=none;strokeColor=#FFFFFF;strokeWidth=2;" vertex="1" parent="1">
+          <mxGeometry x="280" y="20" width="160" height="60" as="geometry" />
+        </mxCell>
+        <mxCell id="A5s-50zNHgjBtvPFU55M-5" style="edgeStyle=orthogonalEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;exitX=0.5;exitY=0;exitDx=0;exitDy=0;entryX=0.5;entryY=1;entryDx=0;entryDy=0;strokeColor=#FFFFFF;strokeWidth=2;" edge="1" parent="1" source="A5s-50zNHgjBtvPFU55M-20" target="A5s-50zNHgjBtvPFU55M-7">
+          <mxGeometry relative="1" as="geometry" />
+        </mxCell>
+        <mxCell id="A5s-50zNHgjBtvPFU55M-6" style="edgeStyle=orthogonalEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;exitX=0.5;exitY=0;exitDx=0;exitDy=0;entryX=0.5;entryY=1;entryDx=0;entryDy=0;strokeColor=#FFFFFF;strokeWidth=2;" edge="1" parent="1" source="A5s-50zNHgjBtvPFU55M-17" target="A5s-50zNHgjBtvPFU55M-7">
+          <mxGeometry relative="1" as="geometry" />
+        </mxCell>
+        <mxCell id="A5s-50zNHgjBtvPFU55M-7" value="&lt;font color=&quot;#ffffff&quot;&gt;Managr produksi&lt;/font&gt;" style="rounded=0;whiteSpace=wrap;html=1;fillColor=none;strokeColor=#FFFFFF;strokeWidth=2;" vertex="1" parent="1">
+          <mxGeometry x="280" y="140" width="160" height="60" as="geometry" />
+        </mxCell>
+        <mxCell id="A5s-50zNHgjBtvPFU55M-8" value="&lt;font color=&quot;#ffffff&quot;&gt;bagian penjualan&lt;/font&gt;" style="rounded=0;whiteSpace=wrap;html=1;fillColor=none;strokeColor=#FFFFFF;strokeWidth=2;" vertex="1" parent="1">
+          <mxGeometry x="70" y="260" width="80" height="60" as="geometry" />
+        </mxCell>
+        <mxCell id="A5s-50zNHgjBtvPFU55M-9" value="&lt;font color=&quot;#ffffff&quot;&gt;karyawan&lt;/font&gt;" style="rounded=0;whiteSpace=wrap;html=1;fillColor=none;strokeColor=#FFFFFF;strokeWidth=2;" vertex="1" parent="1">
+          <mxGeometry x="70" y="360" width="580" height="60" as="geometry" />
+        </mxCell>
+        <mxCell id="A5s-50zNHgjBtvPFU55M-10" style="edgeStyle=orthogonalEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;exitX=0.5;exitY=0;exitDx=0;exitDy=0;entryX=0.5;entryY=1;entryDx=0;entryDy=0;strokeColor=#FFFFFF;strokeWidth=2;" edge="1" parent="1" source="A5s-50zNHgjBtvPFU55M-18" target="A5s-50zNHgjBtvPFU55M-12">
+          <mxGeometry relative="1" as="geometry" />
+        </mxCell>
+        <mxCell id="A5s-50zNHgjBtvPFU55M-11" style="edgeStyle=orthogonalEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;exitX=0.5;exitY=0;exitDx=0;exitDy=0;entryX=0.5;entryY=1;entryDx=0;entryDy=0;strokeColor=#FFFFFF;strokeWidth=2;" edge="1" parent="1" source="A5s-50zNHgjBtvPFU55M-19" target="A5s-50zNHgjBtvPFU55M-12">
+          <mxGeometry relative="1" as="geometry" />
+        </mxCell>
+        <mxCell id="A5s-50zNHgjBtvPFU55M-12" value="&lt;font color=&quot;#ffffff&quot;&gt;Manager keuangan&lt;/font&gt;" style="rounded=0;whiteSpace=wrap;html=1;fillColor=none;strokeColor=#FFFFFF;strokeWidth=2;" vertex="1" parent="1">
+          <mxGeometry x="480" y="140" width="160" height="60" as="geometry" />
+        </mxCell>
+        <mxCell id="A5s-50zNHgjBtvPFU55M-13" style="edgeStyle=orthogonalEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;exitX=0.5;exitY=0;exitDx=0;exitDy=0;entryX=0.5;entryY=1;entryDx=0;entryDy=0;strokeColor=#FFFFFF;strokeWidth=2;" edge="1" parent="1" source="A5s-50zNHgjBtvPFU55M-8" target="A5s-50zNHgjBtvPFU55M-15">
+          <mxGeometry relative="1" as="geometry" />
+        </mxCell>
+        <mxCell id="A5s-50zNHgjBtvPFU55M-14" style="edgeStyle=orthogonalEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;exitX=0.5;exitY=0;exitDx=0;exitDy=0;entryX=0.5;entryY=1;entryDx=0;entryDy=0;strokeColor=#FFFFFF;strokeWidth=2;" edge="1" parent="1" source="A5s-50zNHgjBtvPFU55M-16" target="A5s-50zNHgjBtvPFU55M-15">
+          <mxGeometry relative="1" as="geometry" />
+        </mxCell>
+        <mxCell id="A5s-50zNHgjBtvPFU55M-15" value="&lt;font color=&quot;#ffffff&quot;&gt;Manager pemasaran&lt;/font&gt;" style="rounded=0;whiteSpace=wrap;html=1;fillColor=none;strokeColor=#FFFFFF;strokeWidth=2;" vertex="1" parent="1">
+          <mxGeometry x="80" y="140" width="160" height="60" as="geometry" />
+        </mxCell>
+        <mxCell id="A5s-50zNHgjBtvPFU55M-16" value="&lt;font color=&quot;#ffffff&quot;&gt;bagian promosi&lt;/font&gt;" style="rounded=0;whiteSpace=wrap;html=1;fillColor=none;strokeColor=#FFFFFF;strokeWidth=2;" vertex="1" parent="1">
+          <mxGeometry x="170" y="260" width="80" height="60" as="geometry" />
+        </mxCell>
+        <mxCell id="A5s-50zNHgjBtvPFU55M-17" value="&lt;font color=&quot;#ffffff&quot;&gt;bagian penelitian&lt;/font&gt;" style="rounded=0;whiteSpace=wrap;html=1;fillColor=none;strokeColor=#FFFFFF;strokeWidth=2;" vertex="1" parent="1">
+          <mxGeometry x="370" y="260" width="80" height="60" as="geometry" />
+        </mxCell>
+        <mxCell id="A5s-50zNHgjBtvPFU55M-18" value="&lt;font color=&quot;#ffffff&quot;&gt;bagian akuntansi&lt;/font&gt;" style="rounded=0;whiteSpace=wrap;html=1;fillColor=none;strokeColor=#FFFFFF;strokeWidth=2;" vertex="1" parent="1">
+          <mxGeometry x="470" y="260" width="80" height="60" as="geometry" />
+        </mxCell>
+        <mxCell id="A5s-50zNHgjBtvPFU55M-19" value="&lt;font color=&quot;#ffffff&quot;&gt;bagian keuangan&lt;/font&gt;" style="rounded=0;whiteSpace=wrap;html=1;fillColor=none;strokeColor=#FFFFFF;strokeWidth=2;" vertex="1" parent="1">
+          <mxGeometry x="570" y="260" width="80" height="60" as="geometry" />
+        </mxCell>
+        <mxCell id="A5s-50zNHgjBtvPFU55M-20" value="&lt;font color=&quot;#ffffff&quot;&gt;bagian&lt;/font&gt;&lt;div&gt;&lt;font color=&quot;#ffffff&quot;&gt;pabrik&lt;/font&gt;&lt;/div&gt;" style="rounded=0;whiteSpace=wrap;html=1;fillColor=none;strokeColor=#FFFFFF;strokeWidth=2;" vertex="1" parent="1">
+          <mxGeometry x="270" y="260" width="80" height="60" as="geometry" />
+        </mxCell>
+        <mxCell id="A5s-50zNHgjBtvPFU55M-21" style="edgeStyle=orthogonalEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;exitX=0.931;exitY=0;exitDx=0;exitDy=0;strokeColor=#FFFFFF;strokeWidth=2;entryX=0.5;entryY=1;entryDx=0;entryDy=0;exitPerimeter=0;" edge="1" parent="1" source="A5s-50zNHgjBtvPFU55M-9" target="A5s-50zNHgjBtvPFU55M-19">
+          <mxGeometry relative="1" as="geometry">
+            <mxPoint x="609" y="361" as="sourcePoint" />
+          </mxGeometry>
+        </mxCell>
+        <mxCell id="A5s-50zNHgjBtvPFU55M-22" style="edgeStyle=orthogonalEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;exitX=0.759;exitY=-0.009;exitDx=0;exitDy=0;entryX=0.5;entryY=1;entryDx=0;entryDy=0;strokeColor=#FFFFFF;strokeWidth=2;exitPerimeter=0;" edge="1" parent="1" source="A5s-50zNHgjBtvPFU55M-9" target="A5s-50zNHgjBtvPFU55M-18">
+          <mxGeometry relative="1" as="geometry" />
+        </mxCell>
+        <mxCell id="A5s-50zNHgjBtvPFU55M-23" style="edgeStyle=orthogonalEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;exitX=0.589;exitY=-0.006;exitDx=0;exitDy=0;entryX=0.5;entryY=1;entryDx=0;entryDy=0;strokeColor=#FFFFFF;strokeWidth=2;exitPerimeter=0;" edge="1" parent="1" source="A5s-50zNHgjBtvPFU55M-9" target="A5s-50zNHgjBtvPFU55M-17">
+          <mxGeometry relative="1" as="geometry" />
+        </mxCell>
+        <mxCell id="A5s-50zNHgjBtvPFU55M-24" style="edgeStyle=orthogonalEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;exitX=0.414;exitY=0.004;exitDx=0;exitDy=0;entryX=0.5;entryY=1;entryDx=0;entryDy=0;strokeColor=#FFFFFF;strokeWidth=2;exitPerimeter=0;" edge="1" parent="1" source="A5s-50zNHgjBtvPFU55M-9" target="A5s-50zNHgjBtvPFU55M-20">
+          <mxGeometry relative="1" as="geometry" />
+        </mxCell>
+        <mxCell id="A5s-50zNHgjBtvPFU55M-25" style="edgeStyle=orthogonalEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;exitX=0.241;exitY=0.001;exitDx=0;exitDy=0;entryX=0.5;entryY=1;entryDx=0;entryDy=0;strokeColor=#FFFFFF;strokeWidth=2;exitPerimeter=0;" edge="1" parent="1" source="A5s-50zNHgjBtvPFU55M-9" target="A5s-50zNHgjBtvPFU55M-16">
+          <mxGeometry relative="1" as="geometry" />
+        </mxCell>
+        <mxCell id="A5s-50zNHgjBtvPFU55M-26" style="edgeStyle=orthogonalEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;exitX=0.069;exitY=0;exitDx=0;exitDy=0;entryX=0.5;entryY=1;entryDx=0;entryDy=0;strokeColor=#FFFFFF;strokeWidth=2;exitPerimeter=0;" edge="1" parent="1" source="A5s-50zNHgjBtvPFU55M-9" target="A5s-50zNHgjBtvPFU55M-8">
+          <mxGeometry relative="1" as="geometry" />
+        </mxCell>
       </root>
     </mxGraphModel>
   </diagram>
