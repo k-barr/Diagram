@@ -1,4 +1,4 @@
-<mxfile host="app.diagrams.net" modified="2024-07-05T12:31:26.285Z" agent="Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/125.0.0.0 Safari/537.36 Edg/125.0.0.0" etag="_bnAXjN7BC_51jCj_9fH" version="24.6.4" type="github">
+<mxfile host="app.diagrams.net" modified="2024-07-05T12:32:16.552Z" agent="Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/125.0.0.0 Safari/537.36 Edg/125.0.0.0" etag="ib7tV2OtGizKsMJcPJeq" version="24.6.4" type="github">
   <diagram name="Page-1" id="e7e014a7-5840-1c2e-5031-d8a46d1fe8dd">
     <mxGraphModel dx="832" dy="491" grid="1" gridSize="10" guides="1" tooltips="1" connect="1" arrows="1" fold="1" page="1" pageScale="1" pageWidth="1169" pageHeight="826" background="#000033" math="0" shadow="0">
       <root>
@@ -47,6 +47,12 @@
         </mxCell>
         <mxCell id="No-YN4gegxSg5bePHzrH-54" value="&lt;font color=&quot;#ffffff&quot;&gt;selesai&lt;/font&gt;" style="text;html=1;align=center;verticalAlign=middle;whiteSpace=wrap;rounded=0;" vertex="1" parent="3">
           <mxGeometry x="110.5" y="482" width="60" height="30" as="geometry" />
+        </mxCell>
+        <mxCell id="No-YN4gegxSg5bePHzrH-58" value="&lt;font color=&quot;#ffffff&quot;&gt;salah&lt;/font&gt;" style="text;html=1;align=center;verticalAlign=middle;whiteSpace=wrap;rounded=0;" vertex="1" parent="3">
+          <mxGeometry x="57.5" y="255" width="60" height="30" as="geometry" />
+        </mxCell>
+        <mxCell id="No-YN4gegxSg5bePHzrH-57" value="&lt;font color=&quot;#ffffff&quot;&gt;benar&lt;/font&gt;" style="text;html=1;align=center;verticalAlign=middle;whiteSpace=wrap;rounded=0;" vertex="1" parent="3">
+          <mxGeometry x="140.5" y="306" width="60" height="30" as="geometry" />
         </mxCell>
         <mxCell id="No-YN4gegxSg5bePHzrH-48" style="edgeStyle=orthogonalEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;exitX=1;exitY=0.5;exitDx=0;exitDy=0;entryX=0.5;entryY=0;entryDx=0;entryDy=0;strokeColor=#FFFFFF;" edge="1" parent="1" source="No-YN4gegxSg5bePHzrH-43" target="No-YN4gegxSg5bePHzrH-44">
           <mxGeometry relative="1" as="geometry" />
