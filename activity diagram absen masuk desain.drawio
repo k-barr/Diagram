@@ -1,4 +1,4 @@
-<mxfile host="app.diagrams.net" modified="2024-07-05T12:46:24.857Z" agent="Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/125.0.0.0 Safari/537.36 Edg/125.0.0.0" etag="GET7xVFl2QdWgizqKPtW" version="24.6.4" type="github">
+<mxfile host="app.diagrams.net" modified="2024-07-05T12:47:06.181Z" agent="Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/125.0.0.0 Safari/537.36 Edg/125.0.0.0" etag="PhEkY5Vgg8r04tWPUJ5G" version="24.6.4" type="github">
   <diagram name="Page-1" id="ECfqhMdYsTGhDupP8DMw">
     <mxGraphModel dx="832" dy="491" grid="1" gridSize="10" guides="1" tooltips="1" connect="1" arrows="1" fold="1" page="1" pageScale="1" pageWidth="850" pageHeight="1100" background="#000033" math="0" shadow="0">
       <root>
@@ -40,7 +40,7 @@
         <mxCell id="JeecCPmfl_9dhccnoxLs-18" style="edgeStyle=orthogonalEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;exitX=0.5;exitY=1;exitDx=0;exitDy=0;entryX=0.5;entryY=0;entryDx=0;entryDy=0;strokeColor=#FFFFFF;" edge="1" parent="JeecCPmfl_9dhccnoxLs-3" source="JeecCPmfl_9dhccnoxLs-10" target="JeecCPmfl_9dhccnoxLs-6">
           <mxGeometry relative="1" as="geometry" />
         </mxCell>
-        <mxCell id="JeecCPmfl_9dhccnoxLs-10" value="&lt;font color=&quot;#ffffff&quot;&gt;data otomatis tersimpan&lt;/font&gt;" style="html=1;whiteSpace=wrap;fillColor=none;strokeColor=#FFFFFF;rounded=1;glass=0;" vertex="1" parent="JeecCPmfl_9dhccnoxLs-3">
+        <mxCell id="JeecCPmfl_9dhccnoxLs-10" value="&lt;font color=&quot;#ffffff&quot;&gt;data tersimpan&lt;/font&gt;" style="html=1;whiteSpace=wrap;fillColor=none;strokeColor=#FFFFFF;rounded=1;glass=0;" vertex="1" parent="JeecCPmfl_9dhccnoxLs-3">
           <mxGeometry x="45" y="180" width="110" height="50" as="geometry" />
         </mxCell>
         <mxCell id="JeecCPmfl_9dhccnoxLs-20" value="&lt;font color=&quot;#ffffff&quot;&gt;selesai&lt;/font&gt;" style="text;html=1;align=center;verticalAlign=middle;whiteSpace=wrap;rounded=0;" vertex="1" parent="JeecCPmfl_9dhccnoxLs-3">
